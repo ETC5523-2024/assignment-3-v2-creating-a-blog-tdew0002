@@ -1,4 +1,37 @@
 /* css styles */
 .navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+  background-color: #10295E;
+}
+
+.navbar{
+  background-color: #0B1F47;
+}
+
+.quarto-post{
+  background-color: #FCF7EA;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.nav-link, .navbar-brand{
+  color: #FBE54D;
+}
+
+.margin-sidebar, h5{
+  color: #B62519;
+}
+
+
+.quarto-title-banner, .quarto-title-banner h1{
+  color: #FFFFFF;
+}
+
+body {
+  background-color: #ffffff;
+}
+h1, h2{
+  color: #050505
+}
+h3, h4, h6 {
+  color: #2c3e50;
 }

@@ -2,16 +2,22 @@ project:
   type: website
 
 website:
-  title: "blog-template"
+  title: "The Monash University Press"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/tdew0002
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "Outline"
+    toc-depth: 2
+
 
 
 

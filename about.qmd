@@ -1,13 +1,29 @@
 ---
-title: "About"
+title: "About me"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
+      text: Tycia Dewi
+      href: https://github.com/tdew0002
+    - icon: mail
+      text: Monash
+      href: "mailto:tdew0002@student.monash.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tycia-dewi-45483616a/
+    - icon: link
+      text: My Portfolio
+      href: https://www.tyciadewi.com/
+      
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+This is my first blog made for the ETC5523 Communicating with Data assessment at Monash University.
+
+I am Tycia, a student at Monash University, where I completed my Bachelor’s degree in IT majoring in Interactive Media and am now pursuing my Master’s in Business Analytics. Originally from Indonesia, I have been living in Melbourne since 2017, and I am fluent in Indonesian, English, and Javanese.
+
+I am passionate about food, especially anything related to seafood—it is definitely my favorite! Living in Melbourne has given me the chance to explore a wide variety of dishes while staying connected to my love for Indonesian flavors.
+
+Balancing my academic journey in business analytics with my passion for interactive media has been exciting. I love immersing myself in Melbourne’s diverse culture and tech scene, which has shaped my experiences both personally and professionally.
